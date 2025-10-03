@@ -1,0 +1,40 @@
+::consonant:: = b|d͡ʒ|t͡ʃ|d|f|ɡ|ɣ|h|ʒ|k|l|m|n|p|ɾ|s|ʃ|t|v|j|z
+::vowel:: = a|e|ɯ|i|o|ø|u|y|aː|eː|ɯː|iː|oː|øː|uː|yː
+::frontvowel:: = i|y|e|ø|iː|yː|eː|øː
+
+%　Allophonic variants
+n -> ŋ / _ (k|ɡ)
+ɣ -> ɰ / (::frontvowel::) _ (::frontvowel::)
+ɣ -> 0 / (::vowel::) _ (::vowel::)
+
+% Vowel length
+a -> aː / _ ɣ(#|::consonant::)
+e -> eː / _ ɣ(#|::consonant::)
+ɯ -> ɯː / _ ɣ(#|::consonant::)
+i -> iː / _ ɣ(#|::consonant::)
+o -> oː / _ ɣ(#|::consonant::)
+ø -> øː / _ ɣ(#|::consonant::)
+u -> uː / _ ɣ(#|::consonant::)
+y -> yː / _ ɣ(#|::consonant::)
+ɣ -> 0 / _ (#|::consonant::)
+
+% Geminates
+bb -> bː / _
+d͡ʒd͡ʒ -> d͡ʒː / _
+t͡ʃt͡ʃ -> t͡ʃː / _
+dd -> dː / _
+ff -> fː / _
+ɡɡ -> ɡː / _
+hh -> hː / _
+ʒʒ -> ʒː / _
+kk -> kː / _
+ll -> lː / _
+mm -> mː / _
+nn -> nː / _
+pp -> pː / _
+ɾɾ -> ɾː / _
+ss -> sː / _
+ʃʃ -> ʃː / _
+tt -> tː / _
+vv -> vː / _
+zz -> zː / _
